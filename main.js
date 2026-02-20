@@ -4,7 +4,7 @@
 // @version      2026-02-20
 // @description  Simplify LPDD stats view
 // @author       SrVariable
-// @match        https://lapalabradeldia.com/
+// @match        https://lapalabradeldia.com/**
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=lapalabradeldia.com
 // @grant        none
 // ==/UserScript==
